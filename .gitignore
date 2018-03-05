@@ -1,0 +1,4 @@
+.idea
+datasets/*
+preprocessing/*
+slim_pretrained/*
